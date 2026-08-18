@@ -4,7 +4,7 @@
 [![BepInEx 5](https://img.shields.io/badge/Requires-BepInEx%205-orange.svg)](https://github.com/BepInEx/BepInEx)
 [![Version](https://img.shields.io/badge/Version-1.2-green.svg)](../../releases)
 
-[ **English Readme** ] | [ **[Русская версия (README_RU.md)](README_RU.md)** ] | [ **[Быстрый переход к русской секции 🇷🇺](#russian-version)** ]
+[ **English Readme** ] | [ **[Русская версия (README_RU.md)](README_RU.md)** ] 
 
 ---
 
